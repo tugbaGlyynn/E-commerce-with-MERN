@@ -1,0 +1,121 @@
+[
+  {
+    "name": "SanDisk Ultra 128GB SDX UHS-I Memory Card up to 80MB/s",
+    "price": 45.89,
+    "description": "Ultra-fast cards (2) to take better pictures and Full HD videos (1) with your compact to mid-range point-and-shoot cameras and camcorders. With SanDisk Ultra SDXC UHS-I cards you'll benefit from faster downloads, high capacity, and better performance to capture and store 128GB (5) of high quality pictures and Full HD video(1).Take advatahe of ultra-fast read speeds of up 80MB/s (3) to save time moving photos and videos from the card to your computer. From a leader in flash memory storage, SanDisk ultra SDXC UHS-I cards are compatible with SDHC and SDXC digital devices, and come with a 10-year limited warranty (6),",
+    "ratings": 4.5,
+    "images": [
+      {
+        "public_id": "images/I/71ltYGbSYlL._AC_SY879_",
+        "url": "https://m.media-amazon.com/images/I/71ltYGbSYlL._AC_SY879_.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Ebay",
+    "numOfReviews": 32,
+    "reviews": [
+      {
+        "name": "John Doe",
+        "comment": "Great product, highly recommended!",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "name": "Levi's Men's 511 Slim Fit Jean",
+    "price": 69.99,
+    "description": "Levi's Men's 511 Slim Fit Jean is designed for a modern look, featuring a slim-cut denim pant. It's suitable for everyday wear with its comfortable and durable material.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "original/638089085178855043.jpg",
+        "url": "https://st-levis.mncdn.com/mnresize/3000/1075/Content/media/ProductImg/original/638089085178855043.jpg"
+      },
+      {
+        "public_id": "original/638089085186210272",
+        "url": "https://st-levis.mncdn.com/mnresize/3000/1075/Content/media/ProductImg/original/638089085186210272.jpg"
+      },
+      {
+        "public_id": "original/638089085195741619",
+        "url": "https://st-levis.mncdn.com/mnresize/3000/1075/Content/media/ProductImg/original/638089085195741619.jpg"
+      }
+    ],
+    "category": "Clothes",
+    "seller": "Amazon",
+    "numOfReviews": 56,
+    "reviews": [
+      {
+        "name": "John Doe",
+        "comment": "Great product, highly recommended!",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "name": "Apple AirPods",
+    "price": 269.99,
+    "description": "Quick access to Siri by saying “Hey Siri” More than 24 hours of total listening time with Charging Case Effortless setup, in-ear detection and auto-switching features for a magical experience",
+    "ratings": 9.7,
+    "images": [
+      {
+        "public_id": "/51XanmiXw0L._AC_UL800_FMwebp_QL65_.jpg",
+        "url": "https://m.media-amazon.com/images/I/51XanmiXw0L._AC_UL800_FMwebp_QL65_.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Amazon",
+    "numOfReviews": 100,
+    "reviews": [
+      {
+        "name": "Mark Doe",
+        "comment": "Great product, highly recommended!",
+        "rating": 5
+      }
+    ]
+  },
+  
+  {
+    "name": "1984 by George Orwell",
+    "price": 12.50,
+    "description": "1984 by George Orwell is a classic dystopian novel set in a future where individual freedom is restricted. It offers a compelling analysis of mind control and societal manipulation.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "public_id": "images/I/51-HRNLV9HL._SY466_",
+        "url": "https://m.media-amazon.com/images/I/51-HRNLV9HL._SY466_.jpg"
+      }
+    ],
+    "category": "Books",
+    "seller": "Barnes & Noble",
+    "numOfReviews": 102,
+    "reviews": [
+      {
+        "name": "John Doe",
+        "comment": "Great product, highly recommended!",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "name": "Instant Pot Duo 7-in-1 Electric Pressure Cooker",
+    "price": 89.99,
+    "description": "The Instant Pot Duo 7-in-1 Electric Pressure Cooker offers seven different functions in one: pressure cooking, slow cooking, rice cooking, steaming, yogurt making, sautéing/ searing, and keeping warm. It saves time in the kitchen and allows you to easily prepare various meals.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "public_id": "images/I/91vOcFEhqTL._AC_SL1500_",
+        "url": "https://m.media-amazon.com/images/I/91vOcFEhqTL._AC_SL1500_.jpg"
+      }
+    ],
+    "category": "Home",
+    "seller": "Walmart",
+    "numOfReviews": 230,
+    "reviews": [
+      {
+        "name": "John Doe",
+        "comment": "Great product, highly recommended!",
+        "rating": 5
+      }
+    ]
+  }
+]
